@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BEM</string>
+    <string name="bitcoin">Bitcoin</string>
+    <string name="ethereum">Ethereum</string>
+    <string name="monero">Monero</string>
+    <string name="coinmarketcap">CoinMarketCap</string>
+    <string name="title_activity_bitcoin">BitcoinActivity</string>
+</resources>
